@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/wallpapers/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/wallpapers?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/wallpapers/issues"><img src="https://img.shields.io/github/issues/catppuccin/wallpapers?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/wallpapers/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/wallpapers?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/rholak/catppuccin-allpapers/stargazers"><img src="https://img.shields.io/github/stars/rholak/catppuccin-wallpapers?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/rholak/catppuccin-wallpapers/issues"><img src="https://img.shields.io/github/issues/rholak/catppuccin-wallpapers?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/rholak/catppuccin-wallpapers/contributors"><img src="https://img.shields.io/github/rholak/contributors-catppuccin/wallpapers?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/wallpapers/main/minimalistic/flamingo_unicat.png" style="border-radius:2%"/>
+  <img src="https://raw.githubusercontent.com/rholak/catppuccin-wallpapers/main/minimalistic/flamingo_unicat.png" style="border-radius:2%"/>
 </p>
 
 ## 💝 Thanks to
